@@ -1,0 +1,9 @@
+
+
+# exploring current boundaries of learning AI
+
+" toolkit for developing and comparing reinforcement learning algorithms. It supports teaching agents everything from 
+walking to playing games" 
+
+https://gym.openai.com/
+

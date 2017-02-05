@@ -10,6 +10,13 @@ https://www.wired.com/2017/02/libratus/
 http://spectrum.ieee.org/automaton/robotics/artificial-intelligence/meet-the-new-ai-challenging-human-poker-pros
 
 
+# AI & work:
+
+https://hbr.org/2016/11/what-artificial-intelligence-can-and-cant-do-right-now
+
+http://techcrunch.com/2016/01/15/will-robots-save-the-future-of-work/?ncid=rss&cps=gravity_1730_-1580480070504098730 
+
+
 # AI - general:
 
 https://en.wikipedia.org/wiki/Machine_Intelligence_Research_Institute
@@ -24,13 +31,11 @@ https://www.oreilly.com/ideas/the-current-state-of-machine-intelligence-2-0
 
 www.techinsider.io/mysterious-artificial-intelligence-company-elon-musk-investment-2015-10 
 
-https://www.oreilly.com/ideas/age-of-intelligence?imm_mid=0e832d&cmp=em-data-na-na-newsltr_ai_20160919
+https://www.oreilly.com/ideas/age-of-intelligence
 
 http://www.outerplaces.com/science/item/3571-5-details-about-vicarious-the-ai-company-purchased-by-zuckerberg-and-musk 
 
 http://www.wired.com/2016/02/ai-is-changing-the-technology-behind-google-searches/ 
-
-http://techcrunch.com/2016/01/15/will-robots-save-the-future-of-work/?ncid=rss&cps=gravity_1730_-1580480070504098730 
 
 https://www.technologyreview.com/s/544506/now-ai-machines-are-learning-to-understand-stories/ 
 
@@ -49,7 +54,6 @@ Prof. Yann LeCun - Deep Learning and the Future of AI (sept. '16) - https://www.
 Demis Hassabis: Artificial Intelligence and the Future  (sept. '16) - https://www.youtube.com/watch?v=cEL4iR-d4L8
 
 
-
 # Dangers:
 
 http://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html
@@ -59,12 +63,12 @@ http://waitbutwhy.com/2015/01/artificial-intelligence-revolution-2.html
 https://www.youtube.com/watch?v=tcdVC4e6EV4
 
 
-
 # AI & Ethics:
 
 http://www.ischool.berkeley.edu/people/faculty/annalaurenhoffmann
 
 http://blogs.wsj.com/law/2016/07/13/court-judges-can-consider-predictive-algorithms-in-sentencing/ (..paywall :/)
+
 
 # Issues to solve - tech:
 

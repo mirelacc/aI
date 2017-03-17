@@ -9,7 +9,6 @@ https://www.wired.com/2017/02/libratus/
 
 http://spectrum.ieee.org/automaton/robotics/artificial-intelligence/meet-the-new-ai-challenging-human-poker-pros
 
-http://dapps.ethercasts.com/
 
 
 # AI & work:
@@ -27,6 +26,10 @@ http://www.nytimes.com/2011/03/05/science/05legal.html?_r=0
 https://arstechnica.com/tech-policy/2015/10/law-firm-bosses-envision-watson-type-computers-replacing-young-lawyers/
 
 http://www.altmanweil.com/dir_docs/resource/1c789ef2-5cff-463a-863a-2248d23882a7_document.pdf
+
+(Elon, bits on AI)
+
+https://www.youtube.com/watch?v=NL-KcBp-lfw
 
 
 # AI - general:

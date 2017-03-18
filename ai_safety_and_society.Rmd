@@ -57,3 +57,36 @@ http://www.cusp.ac.uk/essay/m1-3/
 https://hackernoon.com/envisioning-the-future-of-robotics-bf529f760b45#.b7j4ex970
 
 
+
+
+# Smart cars
+
+
+# Tesla:
+
+https://www.tesla.com/nl_NL/autopilot?redirect=no
+
+https://scholar.google.nl/scholar?hl=en&q=tesla+self+driving+car&as_sdt=1%2C5&as_sdtp=&oq=tesla+sel
+
+
+# Toyota
+
+http://numrush.nl/2016/04/05/toyota-wil-meer-over-je-weten-door-middel-van-big-data/
+
+http://corporatenews.pressroom.toyota.com/releases/toyota+software+mobility+connected.htm
+
+
+# 'DIY' autopilot
+
+https://github.com/commaai/research
+
+http://www.theverge.com/2016/6/6/11866868/comma-ai-george-hotz-interview-self-driving-cars
+
+
+
+
+
+
+
+
+

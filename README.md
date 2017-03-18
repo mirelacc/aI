@@ -1,3 +1,3 @@
-# aI
+# ai
 
-notes and links on the developments of AI
+notes and links on the developments and implicationes of AI

@@ -12,6 +12,23 @@ https://www.youtube.com/watch?v=tcdVC4e6EV4
 
 
 
+
+# AI & Ethics:
+
+https://futureoflife.org/2016/12/28/ai-safety-highlights-nips-2016/ 
+
+https://futureoflife.org/bai-2017/
+
+https://futureoflife.org/ai-principles/ 
+
+https://futureoflife.org/2017/02/03/align-artificial-intelligence-with-human-values/
+
+http://www.ischool.berkeley.edu/people/faculty/annalaurenhoffmann
+
+http://blogs.wsj.com/law/2016/07/13/court-judges-can-consider-predictive-algorithms-in-sentencing/ (..paywall :/)
+
+
+
 # AI & work:
 
 http://www.huffingtonpost.com/entry/artificial-intelligence-and-income-inequality_us_58cafe92e4b07112b6472beb
@@ -36,25 +53,14 @@ https://www.youtube.com/watch?v=NL-KcBp-lfw
 
 http://www.cusp.ac.uk/essay/m1-3/
 
-
-
+- More from the benefitial AI talks
 
 https://www.youtube.com/watch?v=h0962biiZa4 
 
-
 https://www.youtube.com/watch?v=EIx3BbwPl_g
 
+- Prospects (and history) of Robotics and AI:
 
-
-
-
-# AI & Ethics:
-
-http://www.ischool.berkeley.edu/people/faculty/annalaurenhoffmann
-
-http://blogs.wsj.com/law/2016/07/13/court-judges-can-consider-predictive-algorithms-in-sentencing/ (..paywall :/)
-
-
-
+https://hackernoon.com/envisioning-the-future-of-robotics-bf529f760b45#.b7j4ex970
 
 

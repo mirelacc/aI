@@ -1,6 +1,6 @@
 
 
-# Dangers & Ethics:
+Dangers & Ethics:
 
 - http://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html
 - http://waitbutwhy.com/2015/01/artificial-intelligence-revolution-2.html
@@ -12,15 +12,15 @@
 - http://www.ischool.berkeley.edu/people/faculty/annalaurenhoffmann
 - http://blogs.wsj.com/law/2016/07/13/court-judges-can-consider-predictive-algorithms-in-sentencing/ (..paywall :/)
 - Some light spots though: http://www.wired.co.uk/article/artificial-intelligence-social-impact-deepmind
+- https://www.linkedin.com/pulse/what-stephen-hawking-gets-right-wrong-most-dangerous-time-wadhwa?trk=hp-feed-article-title-comment
 
-More from the benefitial AI talks
+More from the 'benefitial AI talks':
 
 - https://www.youtube.com/watch?v=h0962biiZa4 
 - https://www.youtube.com/watch?v=EIx3BbwPl_g
 
 
-
-# AI & work:
+AI & work:
 
 - http://www.huffingtonpost.com/entry/artificial-intelligence-and-income-inequality_us_58cafe92e4b07112b6472beb
 - https://hbr.org/2016/11/what-artificial-intelligence-can-and-cant-do-right-now
@@ -44,25 +44,22 @@ Prospects (and history) of Robotics and AI:
 - https://hackernoon.com/envisioning-the-future-of-robotics-bf529f760b45#.b7j4ex970
 
 
-# Smart cars
+Smart cars
 
-
-# Tesla:
+Tesla:
 
 - https://www.tesla.com/nl_NL/autopilot?redirect=no
 - https://scholar.google.nl/scholar?hl=en&q=tesla+self+driving+car&as_sdt=1%2C5&as_sdtp=&oq=tesla+sel
 
-# Toyota
+Toyota
 
 - http://numrush.nl/2016/04/05/toyota-wil-meer-over-je-weten-door-middel-van-big-data/
 - http://corporatenews.pressroom.toyota.com/releases/toyota+software+mobility+connected.htm
 
-# 'DIY' autopilot
+The DIY autopilot
 
 - https://github.com/commaai/research
 - http://www.theverge.com/2016/6/6/11866868/comma-ai-george-hotz-interview-self-driving-cars
-
-
 
 
 

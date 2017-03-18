@@ -1,0 +1,20 @@
+
+
+# Issues to solve - tech:
+
+https://www.technologyreview.com/s/602094/ais-language-problem/?set=602129
+
+https://www.quora.com/If-computing-powers-were-to-increase-ten-times-how-would-it-impact-current-A-I-research
+
+https://www.linkedin.com/pulse/great-question-21st-century-whose-black-box-do-you-trust-tim-o-reilly?c=d7eeeb0d-cfb9-4ab1-ada6-cb638cc85de5
+
+
+
+# exploring current boundaries of learning AI
+
+" toolkit for developing and comparing reinforcement learning algorithms. It supports teaching agents everything from 
+walking to playing games" 
+
+https://gym.openai.com/
+
+

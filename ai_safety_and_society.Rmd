@@ -2,9 +2,16 @@
 
 Dangers & Ethics:
 
+Good introductory videos:
+
+- https://www.youtube.com/watch?v=tcdVC4e6EV4
+- https://www.youtube.com/watch?v=4l7Is6vOAOA 
+- https://www.youtube.com/watch?v=3TYT1QfdfsM
+
+More:
+
 - http://waitbutwhy.com/2015/01/artificial-intelligence-revolution-1.html
 - http://waitbutwhy.com/2015/01/artificial-intelligence-revolution-2.html
-- https://www.youtube.com/watch?v=tcdVC4e6EV4
 - https://futureoflife.org/2016/12/28/ai-safety-highlights-nips-2016/ 
 - https://futureoflife.org/bai-2017/
 - https://futureoflife.org/ai-principles/ 

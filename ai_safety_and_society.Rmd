@@ -1,6 +1,5 @@
 
-
-Dangers & Ethics:
+# Dangers & Ethics:
 
 Good introductory videos:
 
@@ -27,7 +26,7 @@ More from the 'benefitial AI talks':
 - https://www.youtube.com/watch?v=EIx3BbwPl_g
 
 
-AI & work:
+# AI & work:
 
 - http://www.huffingtonpost.com/entry/artificial-intelligence-and-income-inequality_us_58cafe92e4b07112b6472beb
 - https://hbr.org/2016/11/what-artificial-intelligence-can-and-cant-do-right-now
@@ -51,7 +50,7 @@ Prospects (and history) of Robotics and AI:
 - https://hackernoon.com/envisioning-the-future-of-robotics-bf529f760b45#.b7j4ex970
 
 
-Smart cars
+# Smart cars
 
 Tesla:
 

@@ -1,43 +1,23 @@
 
+Internet of things:
 
+- http://www.datasciencecentral.com/profiles/blogs/an-introduction-to-deep-learning-and-it-s-role-for-iot-future 
+- https://www.linkedin.com/pulse/fitting-data-science-methodologies-complex-contours-things-kobielus 
+- http://www.universiteitleiden.nl/en/news/2016/01/using-sensors-to-measure-playground-dynamics 
+- http://thehackernews.com/2016/02/zephyr-internet-of-things-os.html 
+- http://siliconangle.com/blog/2016/05/30/the-5-biggest-markets-the-iot-is-poised-to-disrupt/
+- http://static1.squarespace.com/static/54cecce7e4b054df1848b5f9/t/57489e6e07eaa0105215dc6c/1464376943218/reversing-lora-knight.pdf
+- http://aws.amazon.com/blogs/iot/category/aws-iot/
+- http://google-opensource.blogspot.com/2016/07/announcing-open-source-adc-board-for.html
+- https://blog.codecentric.de/en/2016/07/iot-analytics-platform/ (smack stack :))
+- http://www.astroteller.net/content/3-work/2-papers/3-a-platform-for-wearable-physiological-computing/platform_wearable.pdf
+- http://www.astroteller.net/content/3-work/2-papers/1-ambient-and-wearable-computing/ijhcs-s-05-00219.pdf
 
-# Internet of things:
+People:
 
-
-
-http://www.datasciencecentral.com/profiles/blogs/an-introduction-to-deep-learning-and-it-s-role-for-iot-future 
-
-https://www.linkedin.com/pulse/fitting-data-science-methodologies-complex-contours-things-kobielus 
-
-http://www.universiteitleiden.nl/en/news/2016/01/using-sensors-to-measure-playground-dynamics 
-
-http://thehackernews.com/2016/02/zephyr-internet-of-things-os.html 
-
-http://siliconangle.com/blog/2016/05/30/the-5-biggest-markets-the-iot-is-poised-to-disrupt/
-
-http://static1.squarespace.com/static/54cecce7e4b054df1848b5f9/t/57489e6e07eaa0105215dc6c/1464376943218/reversing-lora-knight.pdf
-
-http://aws.amazon.com/blogs/iot/category/aws-iot/
-
-http://google-opensource.blogspot.com/2016/07/announcing-open-source-adc-board-for.html
-
-https://blog.codecentric.de/en/2016/07/iot-analytics-platform/ (smack stack :))
-
-http://www.astroteller.net/content/3-work/2-papers/3-a-platform-for-wearable-physiological-computing/platform_wearable.pdf
-
-http://www.astroteller.net/content/3-work/2-papers/1-ambient-and-wearable-computing/ijhcs-s-05-00219.pdf
-
-
-- People:
-
-https://www.linkedin.com/in/robvankranenburg
-
-https://www.linkedin.com/in/wienke
-
-https://www.linkedin.com/in/casperkoomen
-
-https://www.linkedin.com/in/hansdonner
-
-https://www.linkedin.com/in/leo-remijn-b2858b
-
+- https://www.linkedin.com/in/robvankranenburg
+- https://www.linkedin.com/in/wienke
+- https://www.linkedin.com/in/casperkoomen
+- https://www.linkedin.com/in/hansdonner
+- https://www.linkedin.com/in/leo-remijn-b2858b
 

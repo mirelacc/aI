@@ -5,6 +5,7 @@
 - https://www.youtube.com/watch?v=u9_GPjFp1iE 
 - https://www.wired.com/2017/02/libratus/
 - http://spectrum.ieee.org/automaton/robotics/artificial-intelligence/meet-the-new-ai-challenging-human-poker-pros
+- http://boingboing.net/2017/03/29/countermeasures-are-a-thing.html
 
 # AI - general:
 

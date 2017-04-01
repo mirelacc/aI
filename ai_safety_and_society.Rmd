@@ -19,6 +19,8 @@ More:
 - http://blogs.wsj.com/law/2016/07/13/court-judges-can-consider-predictive-algorithms-in-sentencing/ (..paywall :/)
 - Some light spots though: http://www.wired.co.uk/article/artificial-intelligence-social-impact-deepmind
 - https://www.linkedin.com/pulse/what-stephen-hawking-gets-right-wrong-most-dangerous-time-wadhwa?trk=hp-feed-article-title-comment
+- https://singularityhub.com/2017/03/19/this-is-what-happens-when-we-debate-ethics-in-front-of-superintelligent-ai/
+
 
 More from the 'benefitial AI talks':
 

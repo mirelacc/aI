@@ -28,6 +28,11 @@ More from the 'benefitial AI talks':
 - https://www.youtube.com/watch?v=EIx3BbwPl_g
 
 
+# black boxing:
+
+- https://www.technologyreview.com/s/604087/the-dark-secret-at-the-heart-of-ai/amp/
+- https://www.netkwesties.nl/1000/verplicht-uitleg-beslissingen-door-slimme.htm
+
 # AI & work:
 
 - https://www.technologyreview.com/s/603995/ai-can-beat-us-at-pokernow-lets-see-if-it-can-work-with-us/

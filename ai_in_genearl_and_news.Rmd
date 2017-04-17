@@ -7,7 +7,7 @@
 - http://spectrum.ieee.org/automaton/robotics/artificial-intelligence/meet-the-new-ai-challenging-human-poker-pros
 - http://boingboing.net/2017/03/29/countermeasures-are-a-thing.html
 - https://www.theatlantic.com/technology/archive/2016/07/the-six-main-arcs-in-storytelling-identified-by-a-computer/490733 
-
+- https://singularityhub.com/2017/03/15/new-artificial-synapse-bridges-the-gap-to-brain-like-computers/
 
 # AI - general:
 

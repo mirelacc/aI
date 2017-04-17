@@ -65,3 +65,16 @@ The DIY autopilot
 - https://github.com/commaai/research
 - http://www.theverge.com/2016/6/6/11866868/comma-ai-george-hotz-interview-self-driving-cars
 
+
+Other things:
+
+- https://techcrunch.com/2017/03/27/elon-musks-neuralink-wants-to-boost-the-brain-to-keep-up-with-ai/
+
+Dangers related to BCI's using better AI:
+
+- First good results in reading the visual cortex http://pinktentacle.com/2008/12/scientists-extract-images-directly-from-brain/
+- http://www.brainfacts.org/about-neuroscience/technologies/articles/2010/reading-minds/
+- 2014 results: https://www.geek.com/news/mind-reading-breakthrough-can-see-faces-in-your-brain-1589063/
+
+
+
